@@ -18,7 +18,7 @@ body {
 
 .icon1 {
     text-align: center;
-    color: white;
+    color: #FFFFFF;
     background-color: #47dee9;
     margin-bottom: 10px;
     font-size: 25px;
@@ -26,7 +26,7 @@ body {
 
 .icon2 {
     text-align: center;
-    color: white;
+    color: #FFFFFF;;
     background-color: #47dee9;
     margin-top: 10px;
     margin-bottom: 50px;
@@ -35,8 +35,25 @@ body {
 
 .icon3 {
     text-align: center;
-    color: white;
+    color: #FFFFFF;;
     background-color:#47dee9;
     margin-top: 10px;
     font-size: 25px;
+}
+
+footer{
+
+background-color: #47dee9;
+font-size: 25px;
+text-align: end;
+
+}
+
+footer a{
+    color: #FFFFFF;
+}
+
+.redes{
+  
+    text-align: center;
 }
