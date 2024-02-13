@@ -8,6 +8,10 @@
 
 .navbar {
 
-    background-color: #5DEDE6;
+    background-color: transparent;
 
 }
+
+ body{
+    background-color: #000000;
+ }
