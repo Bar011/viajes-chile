@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
-*{
+* {
     margin: 0;
     border: 0;
     padding: 0;
@@ -12,6 +12,31 @@
 
 }
 
- body{
+body {
     background-color: #000000;
- }
+}
+
+.icon1 {
+    text-align: center;
+    color: white;
+    background-color: #47dee9;
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+
+.icon2 {
+    text-align: center;
+    color: white;
+    background-color: #47dee9;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    font-size: 25px;
+}
+
+.icon3 {
+    text-align: center;
+    color: white;
+    background-color:#47dee9;
+    margin-top: 10px;
+    font-size: 25px;
+}
