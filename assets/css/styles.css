@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+.navbar {
+
+    background-color: transparent;
+    font-size: 16px;
+    margin-left: 2rem;
+    margin-right: 2rem;
+
+}
+
+body {
+    background-color: #000000;
+}
+
+.card {
+    margin-bottom: 3rem;
+  }
+
+.icon1 {
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #47dee9;
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+
+.icon2 {
+    text-align: center;
+    color: #FFFFFF;;
+    background-color: #47dee9;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    font-size: 25px;
+}
+
+.icon3 {
+    text-align: center;
+    color: #FFFFFF;;
+    background-color:#47dee9;
+    margin-top: 10px;
+    font-size: 25px;
+}
+
+footer{
+
+background-color: #47dee9;
+font-size: 25px;
+text-align: end;
+
+}
+
+footer a{
+    color: #FFFFFF;
+}
+
+.redes{
+  
+    text-align: center;
+}
