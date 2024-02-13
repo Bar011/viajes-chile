@@ -19,6 +19,10 @@ body {
     background-color: #000000;
 }
 
+.card {
+    margin-bottom: 3rem;
+  }
+
 .icon1 {
     text-align: center;
     color: #FFFFFF;
